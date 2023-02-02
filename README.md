@@ -1,3 +1,1 @@
-- @raymondwongso
-- Backend Engineer specialized in Golang and Ruby.
-- Currently learning Infrastructure Platform.
+I code backend stuff
